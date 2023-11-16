@@ -1,0 +1,53 @@
+﻿0–9 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z 
+Homophones | Repetitions | Grammar and miscellaneous 
+For machines – machine-readable version (condensed)
+format: 
+
+misspelling (click for Wikipedia search); (correct spelling)To add an entry to the list, insert a new search entry using the {{search link}} template with the correct spelling in parentheses after the link.  For example,
+
+* {{search link|mispelling||ns0|ns14|ns100}} (misspelling)
+* {{search link|"mispell"|mispell|ns0|ns14|ns100}} (misspell)Please do not delete a misspelling from this page just because it generates false positives. A better way of getting rid of false positives is to "unlink" it by removing the {{search link}} template.  For example,
+
+* u (you) (huge number of false positives)By leaving it on the list, it will remind other users why it has not been added, and it can be easily re-tested at a later date.
+
+Jamacia (Jamaica)
+Jamuary (January)
+Janauary (January)
+Januart (January)
+Januray (January)
+Janusry (January)
+Janurary (January)
+Janyary (January)
+Japaneese (Japanese)
+Japanes (Japanese)
+Jauary (January)
+Jaunary (January)
+Jauuary (January)
+jeapardy (jeopardy)
+Jersualem (Jerusalem)
+jewler (jeweler)
+jewlery (jewellery [British], jewelry [American])
+jewlrey (jewellery, jewelry)
+Jharkand (Jharkhand)
+Jnauary (January)
+Jnuary (January)
+Johanine (Johannine)
+Johsnon (Johnson)
+jorunal (journal)
+Jospeh (Joseph)
+journies (journeys)
+journy (journey)
+jstu (just)
+jsut (just)
+Juadaism (Judaism)
+Juadism (Judaism)
+juction (junction)
+judgement (judgment [American])
+judgment (judgement [British])
+judical (judicial)
+judisuary (judiciary)
+juniour (junior)
+junoir (junior)
+juntion (junction)
+jurisdication (jurisdiction)
+juvinile (juvenile)
