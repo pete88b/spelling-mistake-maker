@@ -1,6 +1,10 @@
 # spelling-mistake-maker
 Make realistic spelling mistakes (i.e. data augmentation for NLP)
 
+# *WIP*
+
+this project is a work in progress - feel free to take a look but there is lots to do before it'll make sense
+
 # dev environment setup
 
 conda create -n spelling_mistake_maker python==3.9 -y
